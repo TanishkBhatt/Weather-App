@@ -26,6 +26,6 @@
 ## Author and Links
 - Made by Tanishk Bhatt - A Student and A Programmer
 - GITHUB : https://github.com/TanishkBhatt
-- PORTFOLIO : https:tanishkbhaii.github.io/TanishkBhatt/
+- PORTFOLIO : https:tanishkbhatt.github.io/TanishkBhatt/
 
 ---
