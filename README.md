@@ -1,6 +1,6 @@
 # WEATHER APP - STREAMLIT
 
-![]('src/ui.png')
+![](src/ui.png)
 
 - An **Python** based **Streamlit** supported Weather Application to Fetch and Plot some Insights of the Data Recived from the **OpenWeatherMap API**.
 - Focuses on **API Integration** **Data Exctraction** and **UI Integration**
